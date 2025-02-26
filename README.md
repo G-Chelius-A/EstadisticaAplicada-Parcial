@@ -8,5 +8,5 @@ Some Java codes written for the Applied Statistics' class. In brief, there is a 
 
 //English
 
-There are three .java files. The file "ArregloLlenar" creates a text file with 50 000 random numbers. AlgoritmoEstadísticaParte1 generates a sortin process throught the selection method using multi-threading; in addition, it informs about the execution time.
+There are three .java files. The file "ArregloLlenar" creates a text file with 50 000 random numbers. AlgoritmoEstadísticaParte1 generates a sorting process through the selection method using multi-threading; in addition, it informs about the execution time.
 AlgoritmoEstadísticaParte2 is written under the same basis of AlgoritmoEstadísticaParte1, but it adds another process which is up to the user.
